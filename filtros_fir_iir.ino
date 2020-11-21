@@ -9,7 +9,7 @@
 /*            Cristian-Ovidio  Duran-Celis                                    */
 /*            Juan-Sebastian   Parrado-Gutierrez                              */
 /*            Jeliza           Varon-Heredia                                  */
-/*            Septiembre 9, 2020                                              */
+/*            Noviembre 19, 2020                                              */
 /*                                                                            */
 /*   e-mail:  cristianduran@javeriana.edu.co                                  */
 /*                parrado-j@javeriana.edu.co                                  */
